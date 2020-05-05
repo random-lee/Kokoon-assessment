@@ -3,7 +3,7 @@
 Kokoon data scientist role assessment
 ---
 
-## Code
+### Info
 
 **mini-project.ipynb/.html** - The analysis, modeling, comparisons
 
